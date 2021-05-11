@@ -1,0 +1,32 @@
+Action 0: first State
+Ech_Xanh,Ech_Xanh,Ech_Xanh,0,Ech_Vang,Ech_Vang,Ech_Vang,
+Action 1: Green frog jump 1 step
+Ech_Xanh,Ech_Xanh,0,Ech_Xanh,Ech_Vang,Ech_Vang,Ech_Vang,
+Action 2: Yello frog jump 2 steps
+Ech_Xanh,Ech_Xanh,Ech_Vang,Ech_Xanh,0,Ech_Vang,Ech_Vang,
+Action 3: Yello frog jump 1 step
+Ech_Xanh,Ech_Xanh,Ech_Vang,Ech_Xanh,Ech_Vang,0,Ech_Vang,
+Action 4: Green frog jump 2 steps
+Ech_Xanh,Ech_Xanh,Ech_Vang,0,Ech_Vang,Ech_Xanh,Ech_Vang,
+Action 5: Green frog jump 2 steps
+Ech_Xanh,0,Ech_Vang,Ech_Xanh,Ech_Vang,Ech_Xanh,Ech_Vang,
+Action 6: Green frog jump 1 step
+0,Ech_Xanh,Ech_Vang,Ech_Xanh,Ech_Vang,Ech_Xanh,Ech_Vang,
+Action 7: Yello frog jump 2 steps
+Ech_Vang,Ech_Xanh,0,Ech_Xanh,Ech_Vang,Ech_Xanh,Ech_Vang,
+Action 8: Yello frog jump 2 steps
+Ech_Vang,Ech_Xanh,Ech_Vang,Ech_Xanh,0,Ech_Xanh,Ech_Vang,
+Action 9: Yello frog jump 2 steps
+Ech_Vang,Ech_Xanh,Ech_Vang,Ech_Xanh,Ech_Vang,Ech_Xanh,0,
+Action 10: Green frog jump 1 step
+Ech_Vang,Ech_Xanh,Ech_Vang,Ech_Xanh,Ech_Vang,0,Ech_Xanh,
+Action 11: Green frog jump 2 steps
+Ech_Vang,Ech_Xanh,Ech_Vang,0,Ech_Vang,Ech_Xanh,Ech_Xanh,
+Action 12: Green frog jump 2 steps
+Ech_Vang,0,Ech_Vang,Ech_Xanh,Ech_Vang,Ech_Xanh,Ech_Xanh,
+Action 13: Yello frog jump 1 step
+Ech_Vang,Ech_Vang,0,Ech_Xanh,Ech_Vang,Ech_Xanh,Ech_Xanh,
+Action 14: Yello frog jump 2 steps
+Ech_Vang,Ech_Vang,Ech_Vang,Ech_Xanh,0,Ech_Xanh,Ech_Xanh,
+Action 15: Green frog jump 1 step
+Ech_Vang,Ech_Vang,Ech_Vang,0,Ech_Xanh,Ech_Xanh,Ech_Xanh,
